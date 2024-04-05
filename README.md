@@ -1,5 +1,5 @@
 ## PHP 8 desde cero
-Vide: [Curso para principiantes + Aplicación con Deploy (Midudev)](https://www.youtube.com/watch?v=BcGAPkjt_IE)
+Video: [Curso para principiantes + Aplicación con Deploy (Midudev)](https://www.youtube.com/watch?v=BcGAPkjt_IE)
 
 ---
 
